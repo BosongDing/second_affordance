@@ -2,7 +2,7 @@ This is the baseline of the dataset second affordance
 
 the file system should have the following structure:
 
-workspace
+<workspace>
 │
 ├── code (this repo)
 │
@@ -12,5 +12,6 @@ workspace
 │   ├── ...
 │
 └── processed_data
+
 
 
