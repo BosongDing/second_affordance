@@ -4,8 +4,8 @@ the file system should have the following structure:/
 workspace/
 ├── code (this repo)
 ├── dataset/
-│   ├── 0_woodencube
-│   ├── 1_peartoy
-│   ├── ...
+│ ├── 0_woodencube
+│ ├── 1_peartoy
+│ ├── ...
 └── processed_data
 '''
