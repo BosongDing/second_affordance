@@ -1,5 +1,5 @@
 This is the baseline of the dataset second affordance \
-the file system should have the following structure: \
+the file system should have the following structure: 
 ```
 workspace
 ├── code (this repo) 
