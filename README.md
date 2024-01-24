@@ -4,12 +4,12 @@ A repository for reproducing the results presented in ICDL-2024 submission.
 > **Abstract:** 
 
 ## Folder and file descriptions
-Run the experiments in `run.sh` to reproduce the results. Use `--random_seed=` for different random seeds.
-resnetXX.py --> Stack
-resnetXX_3cam_3Net.py --> 3c 3n
-resnetXX_3cam_6Net.py --> 3c 6n
-resnetXX_centercam_1Net.py --> cc 1n
-resnetXX_centercam_2Net.py --> cc2n
+Run the experiments in `run.sh` to reproduce the results. Use `--random_seed=` for different random seeds.\
+resnetXX.py --> Stack\
+resnetXX_3cam_3Net.py --> 3c 3n\
+resnetXX_3cam_6Net.py --> 3c 6n\
+resnetXX_centercam_1Net.py --> cc 1n\
+resnetXX_centercam_2Net.py --> cc2n\
 
 the file should have the following structure: 
 ```
