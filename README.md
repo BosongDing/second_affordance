@@ -9,7 +9,7 @@ resnetXX.py --> Stack\
 resnetXX_3cam_3Net.py --> 3c 3n\
 resnetXX_3cam_6Net.py --> 3c 6n\
 resnetXX_centercam_1Net.py --> cc 1n\
-resnetXX_centercam_2Net.py --> cc2n\
+resnetXX_centercam_2Net.py --> cc2n
 
 the file should have the following structure: 
 ```
