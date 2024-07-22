@@ -12,7 +12,7 @@ resnetXX_centercam_1Net.py --> cc 1n\
 resnetXX_centercam_2Net.py --> cc2n
 
 the dataset can be downloaded at https://www.crossvalidate.me/datasets.html
-the file should have the following structure: 
+and the files should have the following structure: 
 ```
 workspace
 ├── code (this repo) 
