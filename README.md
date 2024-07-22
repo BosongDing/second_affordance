@@ -21,7 +21,7 @@ workspace
 │ ├── ... 
 └── processed_data 
 ```
-
+the pre-trained weights can be downloaded at https://drive.google.com/file/d/1ZZ4mJH9ekiQbJozsWCunxFR9W3uwS3mX/view?usp=sharing
 
 |      | res18                   | res50                   | res101                  |
 |------|-------------------------|-------------------------|-------------------------|
