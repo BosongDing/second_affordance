@@ -11,6 +11,7 @@ resnetXX_3cam_6Net.py --> 3c 6n\
 resnetXX_centercam_1Net.py --> cc 1n\
 resnetXX_centercam_2Net.py --> cc2n
 
+the dataset can be downloaded at https://www.crossvalidate.me/datasets.html
 the file should have the following structure: 
 ```
 workspace
@@ -21,7 +22,8 @@ workspace
 │ ├── ... 
 └── processed_data 
 ```
-the pre-trained weights can be downloaded at https://drive.google.com/file/d/1ZZ4mJH9ekiQbJozsWCunxFR9W3uwS3mX/view?usp=sharing
+
+the pre-trained weight of best performance model :ResNet50 1C-1N can be downloaded at https://drive.google.com/file/d/1ZZ4mJH9ekiQbJozsWCunxFR9W3uwS3mX/view?usp=sharing
 
 |      | res18                   | res50                   | res101                  |
 |------|-------------------------|-------------------------|-------------------------|
