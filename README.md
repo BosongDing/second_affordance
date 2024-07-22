@@ -1,5 +1,5 @@
-# ROMAN-2024
-A repository for reproducing the results presented in ROMAN-2024 submission.
+# HUMANOIDS-2024
+A repository for reproducing the results presented in HUMANOIDS-2024 submission.
 
 > **Abstract:** 
 
